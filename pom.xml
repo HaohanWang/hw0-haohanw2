@@ -4,8 +4,8 @@
 	<artifactId>hw0-haohanw2</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git@github.com:HaohanWang/hw0-haohanw.git</connection>
-		<developerConnection>scm:git:git@github.com:HaohanWang/hw0-haohanw.git</developerConnection>
+		<connection>scm:git:git@github.com:HaohanWang/hw0-haohanw2.git</connection>
+		<developerConnection>scm:git:git@github.com:HaohanWang/hw0-haohanw2.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
